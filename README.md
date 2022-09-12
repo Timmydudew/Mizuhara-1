@@ -1,7 +1,7 @@
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=Supermercado+One&size=30&duration=4997&color=B8212C&background=FF673200&center=true&vCenter=true&lines=HI+I+AM+MIZUHARA;A+WHATSAPP+BOT+ON+BAILEYS+MULTI-DEVICE"
+        src="https://readme-typing-svg.herokuapp.com?font=Supermercado+One&size=30&duration=4997&color=B8212C&background=FF673200&center=true&vCenter=true&lines=HI+I+AM+BAYMAX;"A+WHATSAPP+BOT+ON+BAILEYS+MULTI-DEVICE"
             alt="Typing SVG"
         />
     </a>
@@ -10,11 +10,11 @@
 <div align="center">
 <a href="https://c.tenor.com/G1jVjFnK_64AAAAC/chizuru-mizuhara.gif"><img src="https://c.tenor.com/G1jVjFnK_64AAAAC/chizuru-mizuhara.gif" alt="mizuhara" border="0"></a>
 
-# **MIZUHARA : ANIME THEMED MULTI DEVICE WHATSAPP BOT WITH COOL FEATURES**
+# **BAYMAX : ANIME THEMED MULTI DEVICE WHATSAPP BOT WITH COOL FEATURES**
 
 </p>
 <p align="center">
-<a href="#"><img title="MIZUHARA MULTI DEVICE" src="https://img.shields.io/badge/MIZUHARA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="BAYMAX MULTI DEVICE" src="https://img.shields.io/badge/MIZUHARA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/pratyush4932"><img title="Author" src="https://img.shields.io/badge/Author-Pratyush-red.svg?style=for-the-badge&logo=github"></a>
@@ -25,13 +25,13 @@
 </p>
 
 
-## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LN4mY3laHz61S1ybxHBeYd) [![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)](https://js.org/) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( [ ](https://chat.whatsapp.com/C5D6zr2NFQGC1UCAlgFlqY) [![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)](https://js.org/) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 > A Full Fledged MD Bot For Bot Lovers <br>
 
 <p align="center">
   <a href="https://github.com/Arus-Bots/Mizuhara#Requirements">REQUIREMENTS</a> •
   <a href="https://github.com/Arus-Bots/Mizuhara#Installation">HOW TO INSTALL?</a> •
-  <a href="https://chat.whatsapp.com/LN4mY3laHz61S1ybxHBeYd"> OFFICIAL WHATSAPP GROUP</a> •
+  <a href="https://chat.whatsapp.com/C5D6zr2NFQGC1UCAlgFlqY"> OFFICIAL WHATSAPP GROUP</a> •
   <a href="https://github.com/Arus-Bots/Mizuhara#thanks-to">THANKS TO~</a> •
 </p>
 </div>
@@ -42,8 +42,8 @@
 ## 📚 Information 📚
 > A simple and easy-to-use WhatsApp bot project with anime features based on Multi-Device Baileys and written in JavaScript
 
-## 💙 MIZUHARA 💙
-> This is a open source project by the TEAM ARUS. After forking don't do any change. If you do we will sue you for sure. If you wanna do any changes click the following Whatsapp icons and join our groups and contact the [Owner](https://wa.me/918231033230?text=Hi%20I%20Am%20From%20GitHub%20☺️) or moderators
+## 🐤 BayMax 🐤
+> This is a open source project by the TEAM BAYMAX. After forking don't do any change. If you do we will sue you for sure. If you wanna do any changes click the following Whatsapp icons and join our groups and contact the [Owner](https://wa.me/263780699988?text=Hi%20I%20Am%20From%20GitHub%20☺️) or moderators
 
 ## Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -75,16 +75,15 @@ To keep it on forever
 > pm2 logs
 ```
 ## HELP
-> Please give this repo a ⭐ if you liked it.
+> Please give Credit To Arus For This Script.
 
 ## PLANS
-> Hi it's Team-Arus here we are planning for more updates and there will be frequent updates until the next 2 weeks so make a fork of the repo and keep yourself updated.
-
+> Hi itz Team BayMax and We have no futer planz on this bot
 ## CONTRIBUTE
 
 > Feel free to open issues regarding any problems or
 > If you have any feature feel free to contact owner
-<a href="https://wa.me/918231033230?text=Hi%20I%20Am%20From%20GitHub%20☺️">
+<a href="https://wa.me/263780699988?text=Hi%20I%20Am%20From%20GitHub%20☺️">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
 
@@ -94,7 +93,7 @@ Distributed under the GNU AFFERO GENERAL PUBLIC License. See [LICENSE](/LICENSE)
 for more information.
 
 # Thanks To
-<a href="https://github.com/pratyush4932"><img src="https://github.com/pratyush4932.png?size=100" width="100" height="100"></a> | [![AMRIT](https://github.com/Amrit9304.png?size=100)](https://github.com/Amrit9304) 
+<a href="https://github.com/mrjuice01"><img src="https://github.com/pratyush4932.png?size=100" width="100" height="100"></a> | [![AMRIT](https://github.com/Amrit9304.png?size=100)](https://github.com/Amrit9304) 
 ---|---
 [Pratyush](https://github.com/pratyush4932)  | [Amrit/Aizen](https://github.com/Amrit9304)
 Owner of Mizuhara | Contributor |
