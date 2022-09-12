@@ -386,27 +386,18 @@ const mod=`❁ ════ ❃• *MODERATORS* •❃ ════ ❁
 💥 *Username: Asif*
 🍂 *Contact: https://wa.me/+923474187615*
 #3
-💥 *Username: Tomioka*
-🍁 *Contact: https://wa.me/+917003213983*
-#4
-💥 *Username: Death*
-🍁 *Contact: https://wa.me/+917604016334*
-#5
-💥 *Username: Arin*
-🍁 *Contact: https://wa.me/+919330880626*
-#6
-💥 *Username: Manish*
-🍁 *Contact: https://wa.me/+919106196230*
+💥 *Username: Timmy*
+🍁 *Contact: https://wa.me/+2348050261876*
 ━━━━°❀•°:🤍 *BAYMAX* 🤍:°•❀°━━━━`
 const mbut = [
 {buttonId: '=creator', buttonText: {displayText: '🎋 Creator'}, type: 1},
-{buttonId: '=help', buttonText: {displayText: '🍂 Help'}, type: 1},
-{buttonId: '=mods', buttonText: {displayText: '💥 Arus Team'}, type: 1}
+{buttonId: '=help', buttonText: {displayText: '🐤 Help'}, type: 1},
+{buttonId: '=mods', buttonText: {displayText: '💥 BayMax Team'}, type: 1}
 ]
 let buttonMessagem = {
         image: { url: "https://telegra.ph/file/05a5910097d3dd9743ebb.jpg" },
         caption: mod,
-        footer: '©Arus 2022',
+        footer: '©BayMax 2022',
         buttons: mbut,
         headerType: 4
     }
@@ -539,7 +530,7 @@ try {
 ` 
 const buttonsd = [
 {buttonId: '=rank', buttonText: {displayText: '🎋 Rank'}, type: 1},
-{buttonId: '=help', buttonText: {displayText: '🍂 Help'}, type: 1}
+{buttonId: '=help', buttonText: {displayText: '🐤 Help'}, type: 1}
 ]
 let buttonMessage = {
         image: { url: pfp },
@@ -774,16 +765,16 @@ case  'play': case 'ytplay': {
     let buttonMessage = {
         image: { url: anu.thumbnail },
         caption: `
-🎯 Title : ${anu.title}
-🎗️ ID : ${anu.videoId}
-⏱️ Duration : ${anu.timestamp}
-🌸 Viewers : ${anu.views}
-🍁 Upload At : ${anu.ago}
-📌 Author : ${anu.author.name}
-📓 Channel : ${anu.author.url}
-🎬 Description : ${anu.description}
-🌐 Url : ${anu.url}`,
-        footer: '©Arus 2022',
+🔥 Title : ${anu.title}
+🔥 ID : ${anu.videoId}
+🔥 Duration : ${anu.timestamp}
+🔥 Viewers : ${anu.views}
+🔥 Upload At : ${anu.ago}
+🔥 Author : ${anu.author.name}
+🔥 Channel : ${anu.author.url}
+🔥 Description : ${anu.description}
+🔥 Url : ${anu.url}`,
+        footer: '©BayMax 2022',
         buttons: buttons,
         headerType: 4
     }
@@ -792,7 +783,7 @@ case  'play': case 'ytplay': {
 break
 case 'ytmp3': case 'ytaudio': case 'yta': {
     let { yta  } = require('./lib/y2mate')
-    if (!q) m.reply(`*Where is the yt-link dude?*`)
+    if (!q) m.reply(`*Where is the yt-link bro?*`)
    
     var search = await yts(q)
     //console.log(search)
@@ -881,12 +872,12 @@ const Client = new Genius.Client();
   const firstSong = searches[0];
   console.log("About the Song:\n", firstSong, "\n");
   
-  // Ok lets get the lyrics
+  // Ok wait for BayMax..
   const lyrics = await firstSong.lyrics();
   console.log("Lyrics of the Song:\n", lyrics, "\n");
   const reactionMessage = {
     react: {
-        text: "🎶",
+        text: "🐤",
         key:m.key
     }
 }
@@ -903,7 +894,7 @@ const Client = new Genius.Client();
 
 break
 case 'gimage':case 'image': {
-        if (!text) m.reply(`Baka!! what image you wnt?`)
+        if (!text) m.reply(`Bro!! which image you wnt?`)
         let gis = require('g-i-s')
         gis(text, async (error, result) => {
         n = result
@@ -916,7 +907,7 @@ case 'gimage':case 'image': {
                     caption: `
 💥 *Query* : ${text}
 `,
-                    footer: '©Arus 2022',
+                    footer: '©BayMax 2022',
                     buttons: buttons,
                     headerType: 4
                 }
@@ -949,7 +940,7 @@ case 'gimage':case 'image': {
       let buttonsMessage = {
        image: await getBuffer(waifud.data.url),
        caption:  `*Here is your waifu*`,
-      footer: '©Arus 2022',
+      footer: '©BayMax 2022',
       buttons: wbutss,
       headerType: 4
       }
@@ -977,7 +968,7 @@ case 'neko':
       let buttonssMessage = {
        image: {url:waifud.data.url},
        caption:  `*Here is your 🐱Neko*`,
-      footer: '©Arus 2022',
+      footer: '©BayMax 2022',
       buttons: wbutsss,
       headerType: 4
       }
@@ -997,7 +988,7 @@ case 'kemonomimi':
       let buttonssMessages = {
        image: {url:waifudd.data.url},
        caption:  `*Here You Go...*`,
-      footer: '©Arus 2022',
+      footer: '©BayMax 2022',
       buttons: wbuttsss,
       headerType: 4
       }     
@@ -1043,7 +1034,7 @@ const suu =tb.set(`${m.chat}.hp`,waifu.data.display_picture )
  image:{url:waifu.data.display_picture},
  caption:hait,
 buttons:haibu,
-footer:'ARUS 2022',
+footer:'BayMax 2022',
 headerType:4
    }
 arus.sendMessage(m.chat,haib,{quoted:m})
@@ -1200,7 +1191,7 @@ var walb = [
       let wal = {
        image: {url:wallpaper[i].image},
        caption: `*Query :* ${q}`,
-      footer: '©Arus 2022',
+      footer: '©BayMax 2022',
       buttons: walb,
       headerType: 4
       }     
