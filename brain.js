@@ -187,7 +187,7 @@ function lz(val) {
 
         switch(command) {
 case 'hi':
-    m.reply('hello')
+    m.reply('hello Im BayMax')
        break
 case '':
     if(icmd){
@@ -535,7 +535,7 @@ const buttonsd = [
 let buttonMessage = {
         image: { url: pfp },
         caption: profile,
-        footer: '©Arus 2022',
+        footer: '©BayMax 2022',
         buttons: buttonsd,
         headerType: 4
     }
@@ -691,7 +691,7 @@ break
                         { buttonId: '=group close', buttonText: { displayText: 'Close' }, type: 1 },
                         { buttonId: '=linkgc', buttonText: { displayText: 'Group link' }, type: 1 }
                     ]
-                    await arus.sendButtonText(m.chat, buttons, `*Group Open/Close*`, '©MIZUHARA-BOTTO 2022', m)
+                    await arus.sendButtonText(m.chat, buttons, `*Group Open/Close*`, '©BAYMAX-BOT 2022', m)
 
             }
 }
@@ -798,10 +798,10 @@ case 'ytmp3': case 'ytaudio': case 'yta': {
               
 ⇆ㅤ ㅤ◁ㅤ ❚❚ ㅤ▷ ㅤㅤ↻
                      
-*📓Title* : ${search[0].title}
-*🎤Type* : MP3
-*🎬Description* : ${search[0].description}
-*🌐Link* : ${q}`
+*🔥Title* : ${search[0].title}
+*🔥Type* : MP3
+*🔥Description* : ${search[0].description}
+*🔥Link* : ${q}`
 arus.sendMessage(m.chat,{image:{url:search[0].thumbnail},caption:ycp},{quoted:m,})
 arus.sendMessage(m.chat, { audio: { url: media.dl_link }, contextInfo: {
                     externalAdReply: {
@@ -816,7 +816,7 @@ arus.sendMessage(m.chat, { audio: { url: media.dl_link }, contextInfo: {
 break
 case 'ytmp4': case 'ytvideo': case 'ytv': {
     let { ytv } = require('./lib/y2mate')
-    if (!q) m.reply(`*Where is the yt-link dude?*`)
+    if (!q) m.reply(`*Where is the yt-link bro?*`)
     let quality = args[1] ? args[1] : '360p'
     let media = await ytv(q, quality)
     if (media.filesize >= 100000) return m.reply('Oops!!'+util.format(media))
@@ -851,7 +851,7 @@ case 'join': {
             }
             break
      case 'instagram': case 'ig': case 'igdl': {
-                if (!q) return m.reply('Enter Query Url!')
+                if (!q) return m.reply('Enter Query Url, like https://instagram/mr_juice7')
                 m.reply(mess.wait)
                 if (/(?:\/p\/|\/reel\/|\/tv\/)([^\s&]+)/.test(isUrl(q)[0])) {
                     let anu = await fetchJson(api('zenz', '/downloader/instagram2', { url: isUrl(q)[0] }, 'apikey'))
@@ -1092,7 +1092,7 @@ const none = 'none'
 const ds=fs.readFileSync(`./src/${m.sender}.json`)
    const namee = tb.get(`${m.sender}.haigusha`)
      tb.delete(`${m.sender}.haigusha`,ds[0])
-         await m.reply( `Sadddd! you have divorced ${namee}`)
+         await m.reply( `Sad! you have divorced ${namee}`)
 
   //  tb.const(`${sender}.haigusha`)
 }
@@ -1500,15 +1500,15 @@ break
                 for (let i of anu) {
                     await sleep(1500)
                     
-                      let txt = `「 MIZUHARA BROADCAST 」\n\n${text}\n\nRegards~${pushname}`
+                      let txt = `「 BayMax BROADCAST 」\n\n${text}\n\nRegards~${pushname}`
 const bcbut=[{buttonId:"=info",buttonText:{displayText:"Info"},type:1},
 {buttonId:"=creator",buttonText:{displayText:"Creator"},type:1},
-{buttonId:"=mods",buttonText:{displayText:"Arus Team"},type:1}]
+{buttonId:"=mods",buttonText:{displayText:"BayMax Team"},type:1}]
 
 const bcbutt={
     image: fs.readFileSync('./bc.jpg'),
     caption:txt,
-    footer:`©Arus 2022`,
+    footer:`©BayMax 2022`,
     buttons: bcbut,
     headerType:1
 } 
