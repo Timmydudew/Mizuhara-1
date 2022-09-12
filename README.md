@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-<a href="https://tenor.com/view/baymax-hello-wave-hi-hey-gif-19035297"><img src="https://tenor.com/view/baymax-hello-wave-hi-hey-gif-19035297" alt="mizuhara" border="0"></a>
+<a href="https://tenor.com/view/baymax-hello-wave-hi-hey-gif-19035297"><img src="https://tenor.com/view/baymax-hello-wave-hi-hey-gif-19035297" alt="BayMax" border="0"></a>
 
 # **BAYMAX : ANIME THEMED MULTI DEVICE WHATSAPP BOT WITH COOL FEATURES**
 
