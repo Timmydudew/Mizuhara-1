@@ -194,13 +194,13 @@ case '':
 
 
     const dbut = [
-{buttonId: '=help', buttonText: {displayText: '🍂 Help'}, type: 1},
-{buttonId: '=mods', buttonText: {displayText: '💥 Arus Team'}, type: 1}
+{buttonId: '=help', buttonText: {displayText: '🐤 Help'}, type: 1},
+{buttonId: '=mods', buttonText: {displayText: '💥 BayMax Team'}, type: 1}
 ]
 let buttonMessaged = {
         image: {url:"https://telegra.ph/file/645707c1698c8a9515953.jpg"},
         caption: `*DID YOU MEAN =help ?*`,
-        footer: '©Arus 2022',
+        footer: '©BayMax 2022',
         buttons: dbut,
         headerType: 4
     }
@@ -213,7 +213,7 @@ let buttonMessaged = {
 case 'help':
 
 const hlp=`
- *U^I^U ♡ Konichiwa ${pushname} Senpai, I'm Mizuhara*
+ *U^I^U ♡ Konichiwa ${pushname} Senpai, I'm BayMax*
 
 🎋 \`\`\`Here are my listed commands, Have fun in using them:-\`\`\`
 
@@ -303,7 +303,7 @@ const hlp=`
 
 🎯 image\`\`\`
 
- 🍁 *©Powered by Arus* 🍁`
+ 🍁 *©Powered by Mr Juice* 🍁`
   const hhbut = [
 {buttonId: '=info', buttonText: {displayText: '📤 Info'}, type: 1},
 {buttonId: '=profile', buttonText: {displayText: '🧧 Profile'}, type: 1}
@@ -311,7 +311,7 @@ const hlp=`
 let hbutto = {
         image: {url:"https://telegra.ph/file/9e58cb8f7cb23d7e7f94d.jpg"},
         caption: hlp,
-        footer: '©Arus 2022',
+        footer: '©BayMax 2022',
         buttons: hhbut,
         headerType: 4
     }
@@ -352,10 +352,10 @@ case 'info':
 
 const ibut = [
 {buttonId: '=profile', buttonText: {displayText: '🎋 Profile'}, type: 1},
-{buttonId: '=help', buttonText: {displayText: '🍂 Help'}, type: 1},
-{buttonId: '=mods', buttonText: {displayText: '💥 Arus Team'}, type: 1}
+{buttonId: '=help', buttonText: {displayText: '🐤 Help'}, type: 1},
+{buttonId: '=mods', buttonText: {displayText: '💥 BayMax Team'}, type: 1}
 ]
-const inf=`❁ ════ ❃•💙 *MIZUHARA* 💙•❃ ════ ❁
+const inf=`❁ ════ ❃•🐤 *BAYMAX* 🐤•❃ ════ ❁
 \`\`\`A FULL FLEDGED MULTI DEVICE WHATSAPP BOT WITH COOL FEATURES\`\`\`
 ❁ ═══ ❃•📕 *INFORMATION*📕•❃ ═══ ❁
 \`\`\`A simple and easy-to-use WhatsApp bot project based on Multi-Device Baileys and written in JavaScript\`\`\`
@@ -369,7 +369,7 @@ const inf=`❁ ════ ❃•💙 *MIZUHARA* 💙•❃ ════ ❁
 let buttonMessagei = {
         image: { url: "https://telegra.ph/file/05a5910097d3dd9743ebb.jpg" },
         caption: inf,
-        footer: '©Arus 2022',
+        footer: '©BayMax 2022',
         buttons: ibut,
         headerType: 4
     }
@@ -380,11 +380,11 @@ break
 case 'mods':
 const mod=`❁ ════ ❃• *MODERATORS* •❃ ════ ❁
 #1
-💥 *Username: Pratyush*
-🍁 *Contact: https://wa.me/+918231033230*
+💥 *Username: Mr Juice*
+🍁 *Contact: https://wa.me/+263780699988*
 #2
-💥 *Username: AiZen*
-🍂 *Contact: https://wa.me/+918709022955*
+💥 *Username: Asif*
+🍂 *Contact: https://wa.me/+923474187615*
 #3
 💥 *Username: Tomioka*
 🍁 *Contact: https://wa.me/+917003213983*
@@ -397,7 +397,7 @@ const mod=`❁ ════ ❃• *MODERATORS* •❃ ════ ❁
 #6
 💥 *Username: Manish*
 🍁 *Contact: https://wa.me/+919106196230*
-━━━━°❀•°:🤍 *MIZUHARA* 🤍:°•❀°━━━━`
+━━━━°❀•°:🤍 *BAYMAX* 🤍:°•❀°━━━━`
 const mbut = [
 {buttonId: '=creator', buttonText: {displayText: '🎋 Creator'}, type: 1},
 {buttonId: '=help', buttonText: {displayText: '🍂 Help'}, type: 1},
