@@ -170,8 +170,8 @@ function lz(val) {
 }    
     if (isGroup && _anti.includes(`${m.chat}`)) {
       if (budy.includes("://chat.whatsapp.com/")) {
-        if (isAdmins) return m.reply("*You are admin I wont remove you,cool*");
-        m.reply("*Group Link Detected!!!*");
+        if (isAdmins) return m.reply("Lol You are admin I can't remove you");
+        m.reply("h");
         await arus.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
     }
     }
